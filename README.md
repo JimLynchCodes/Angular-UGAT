@@ -6,4 +6,4 @@ A guide for leveraging acceptance, unit, and ui/e2e tests to build valuable soft
 
 For Angular 2 Projects.
 
-Looking for Angular-UGAT, React-UGAT, or Java-UGAT?
+Looking for <a href="https://github.com/JimTheMan/AngularJS-UGAT">AngularJS-UGAT</a>, <a href="https://github.com/JimTheMan/Java-UGAT/">Java-UGAT</a>, or <a href="https://github.com/JimTheMan/React-UGAT/">React-UGAT</a>?
